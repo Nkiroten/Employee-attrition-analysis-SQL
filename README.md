@@ -89,7 +89,7 @@ Data Analyst committed to using data, analytics, and visualization to tell compe
 ## Project Screenshots
 
 ### Attrition by Department
-![Attrition by Department](01_Attrition_by_department.png)
+![Attrition by Department](./01%20Attrition%20by%20departments.png)
 
 ### Overtime Attrition Analysis
 ![Overtime Attrition Analysis](02_Overtime_attrition.png)
