@@ -89,16 +89,16 @@ Data Analyst committed to using data, analytics, and visualization to tell compe
 ## Project Screenshots
 
 ### Attrition by Department
-![Attrition by Department](01_attrition_by_department.png)
+![Attrition by Department](01_Attrition_by_department.png)
 
 ### Overtime Attrition Analysis
-![Overtime Attrition Analysis](02_overtime_attrition.png)
+![Overtime Attrition Analysis](02_Overtime_attrition.png)
 
 ### Income Group Analysis
-![Income Group Analysis](03_income_group_analysis.png)
+![Income Group Analysis](03_Income_group_analysis.png)
 
 ### Department Attrition View
-![Department Attrition View](04_department_attrition_view.png)
+![Department Attrition View](04_Department_attrition_view.png)
 
 ### Salary Ranking Window Function
-![Salary Ranking Window Function](05_salary_ranking_window_function.png)
+![Salary Ranking Window Function](05_Salary_ranking_window_function.png)
