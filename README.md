@@ -85,20 +85,21 @@ The dataset contains employee information, including:
 
 Data Analyst committed to using data, analytics, and visualization to tell compelling business stories.
 
-
 ## Project Screenshots
 
 ### Attrition by Department
 ![Attrition by Department](./01%20Attrition%20by%20departments.png)
 
 ### Overtime Attrition Analysis
-![Overtime Attrition Analysis](02_Overtime_attrition.png)
+![Overtime Attrition Analysis](./02%20Overtime%20attrition.png)
 
 ### Income Group Analysis
-![Income Group Analysis](03_Income_group_analysis.png)
+![Income Group Analysis](./03%20Income%20group%20analysis.png)
 
 ### Department Attrition View
-![Department Attrition View](04_Department_attrition_view.png)
+![Department Attrition View](./04%20Department%20attrition%20view.png)
 
 ### Salary Ranking Window Function
-![Salary Ranking Window Function](05_Salary_ranking_window_function.png)
+![Salary Ranking Window Function](./05%20Salary%20ranking%20window%20function.png)
+
+
